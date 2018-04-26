@@ -2,7 +2,7 @@
 
 > 工具：`vue` ，`bootstrap` ，`webpack`
 >
-> [线上预览](http://www.victor.ac.cn/)
+> [线上预览](http://www.victor.ac.cn/vue/dropDownBox/)
 
 ## Build Setup
 
